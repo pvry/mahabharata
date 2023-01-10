@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mahabharata"
+  site-url: "https://pvry.github.io/mahabharata"
+  description: "MB_test"
+  repo-branch: master
+  repo-url: "https://github.com/pvry/mahabharata"
